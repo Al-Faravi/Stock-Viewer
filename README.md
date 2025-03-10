@@ -1,6 +1,7 @@
 Stock Viewer – Project Description
 Stock Viewer is a full-stack web application designed for efficient stock data management and visualization. It enables users to fetch, search, sort, and manipulate stock records with seamless integration between the React frontend and Flask backend, supported by MySQL for structured data storage.
 
+
 Development Approach & Methodologies
 Backend Development – Flask API
 
